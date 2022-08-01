@@ -14,3 +14,5 @@ truffle compile (to check cotracts)
 truffle migrate --reset (migrate contracts)
 
 npm run start
+
+*The code is based on https://github.com/01clarian tutorials.
